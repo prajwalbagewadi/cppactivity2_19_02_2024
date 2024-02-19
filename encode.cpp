@@ -1,3 +1,12 @@
+/*
+Activity 02: Design Machine level module
+ 
+name:Prajwal N.Bagewadi
+class:SY.BCA(Sci)
+roll No:05
+
+*/
+
 #include<iostream>
 #include<bitset>
 #include<fstream>
